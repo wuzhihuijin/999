@@ -8,10 +8,13 @@
 
 **仅供个人复习、自测与前端自动化学习。**
 
+
 请遵守所在平台的用户协议，成绩与后果自负。
 
 ---
+<img width="457" height="524" alt="image" src="https://github.com/user-attachments/assets/42db4cef-35c3-4b25-82e0-f8350da8b9db" />
 
+觉得有用的话留下一个 Star⭐️ 吧！
 ## ✨ 能做什么
 
 - **一键作答** —— 抓题 → 请求 AI → 自动勾选 / 填写
